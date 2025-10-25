@@ -178,6 +178,8 @@ Navigate to the frontend URL (usually http://localhost:5173).
 Sign in with Google.
 
 Add, edit, delete transactions.
+<img width="752" height="400" alt="image" src="https://github.com/user-attachments/assets/2963251b-caf6-432f-86c4-76f7933dc7b3" />
+
 
 Filter/search transactions.
 
